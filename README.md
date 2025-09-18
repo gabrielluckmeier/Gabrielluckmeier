@@ -19,12 +19,6 @@ Bem-vindo ao meu repositório! Sou **desenvolvedor**, **entusiasta de tecnologia
 ## 🌍 Vamos nos Conectar!
 .............
 
-## 📈 Estatísticas do GitHub
-
-Aqui estão algumas das minhas estatísticas no GitHub, que mostram meu progresso e dedicação:
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Gabrielluckmeier&show_icons=true&count_private=true&hide=prs&theme=radical)
-
 ## 🛠️ Ferramentas que uso
 
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
