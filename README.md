@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o **Gabriel Luckmeier** 👋
 
-<!--
-**gabrielluckmeier/Gabrielluckmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório! Sou **desenvolvedor**, **entusiasta de tecnologia** e sempre estou em busca de novos desafios para melhorar minhas habilidades. 
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 **Desenvolvedor** com experiência em **JavaScript**.
+- 🧠 Apaixonado por **Inteligência Artificial** e **Desenvolvimento Web**.
+- 🎮 Criador de sites e projetos de **software**.
+- 💬 Sempre aberto a **colaborações** e a aprender novas tecnologias.
+- 🌍 Buscando aplicar meus conhecimentos em **projetos sociais** e **ambientais**.
+
+## 📚 Habilidades
+
+### Linguagens
+- **JavaScript**
+- **HTML/CSS**
+
+## 🌍 Vamos nos Conectar!
+.............
+
+## 📈 Estatísticas do GitHub
+
+Aqui estão algumas das minhas estatísticas no GitHub, que mostram meu progresso e dedicação:
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Gabrielluckmeier&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 🛠️ Ferramentas que uso
+
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Code-HTML%2F%20CSS-orange?logo=html5&logoColor=white" />
+
+
+## 📬 Entre em Contato
+
+Se você quiser conversar sobre um projeto, colaborar em algo ou apenas trocar ideias sobre tecnologia, me mande uma mensagem! 😊
+
+---
+
+Obrigado por visitar o meu perfil! 🚀
+
+---
+
+
