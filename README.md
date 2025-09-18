@@ -31,7 +31,7 @@ Se você quiser conversar sobre um projeto, colaborar em algo ou apenas trocar i
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/gabrielluckmeier/Gabrielluckmeier/main/output/github-contribution-grid-snake-dark.svg)
+![Pulsação](https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 Obrigado por visitar o meu perfil! 🚀
 
